@@ -1,0 +1,24 @@
+{
+  "name": "com.sepjani.animationsequencer",
+  "displayName": "Sepjani.Helpers",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "Collection of scripts used in different projects",
+  "keywords": [
+    "script",
+    "dotween",
+    "odin"
+  ],
+  "category": "editor extensions",
+  "homepage": "https://github.com/vstrucovski/Sepjani.Helpers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vstrucovski/Sepjani.Helpers.git"
+  },
+  "bugs": "https://github.com/vstrucovski/Sepjani.Helpers/issues",
+  "author": {
+    "name": "vstrucovski",
+    "url": "https://twitter.com/vstrucovski"
+  },
+  "type": "library"
+}
